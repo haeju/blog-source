@@ -74,7 +74,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 Plugins: hexo-deployer-git
-theme: next
+theme: blog-theme-next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
