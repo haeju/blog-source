@@ -1,5 +1,5 @@
 ---
-title: d3-introduce
+title: d3
 date: 2019-08-23 20:17:29
 tags:
 ---
