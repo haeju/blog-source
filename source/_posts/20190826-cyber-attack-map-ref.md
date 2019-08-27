@@ -5,7 +5,7 @@ categories:
 tags:
   - null
 date: 2019-08-26 14:21:07
-thumbnail:
+thumbnail: 
 ---
 # 국가별 정보시각화 레펀러스 사이트
 
