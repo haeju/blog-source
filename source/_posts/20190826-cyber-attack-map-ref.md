@@ -1,5 +1,5 @@
 ---
-title: cyber attack map ref
+title: 국가별 정보시각화 레펀러스 사이트
 categories:
   - null
 tags:
@@ -7,8 +7,6 @@ tags:
 date: 2019-08-26 14:21:07
 thumbnail: 
 ---
-# 국가별 정보시각화 레펀러스 사이트
-
 업체별 지도 데이타 시각화 내용을 소개합니다.
 
 ## 1. 노스(Norse)
