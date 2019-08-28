@@ -3,12 +3,13 @@ title: 국가별 정보시각화 레펀러스 사이트
 categories:
   - null
 tags:
-  - null
+  - cyberAttack
+  - 정보시각화
 date: 2019-08-26 14:21:07
 thumbnail: 
 ---
 업체별 지도 데이타 시각화 내용을 소개합니다.
-
+<!-- more -->
 ## 1. 노스(Norse)
 {% asset_img norse.png 노스(Norse) %}
 - 실시간으로 해킹 상황을 볼수 있으며 게임을 보는 듯한 현란한 모션 이펙트 화면을 제공

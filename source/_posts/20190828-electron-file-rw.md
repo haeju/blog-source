@@ -1,16 +1,24 @@
 ---
 title: Electron에서의 파일처리
 categories:
-  - null
+  - Web
+  - Electron
 tags:
-  - null
+  - Electron
+  - fileRead
+  - fileWrite
+  - FS
+  - nodeIntegration
+  - vue  
 date: 2019-08-28 14:10:36
 thumbnail:
 ---
+
 ### ipc 통신
   electron에서의 파일처리는 node.js에서 제공하는 fs(file system) 모듈로 이용가능 하다.
   단, Renderer Process에서 사용하기 위해서는 아래와 같이 "nodeIntegration: true"로 설정되어야 한다. 
   바로 사용해도 무방하지만 fs(file system)은 가급적 MainProcess에서 처리하는걸로 하였으며 이에 ipc 통신을 통해 처리되도록 기능 추가.
+<!-- more -->
 
 ### 이벤트 등록
   Main Process에서 src/main/ipc/fs.js 작성하면 Wrapper모듈을 ipc 이벤트로 등록.
