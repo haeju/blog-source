@@ -1,7 +1,8 @@
 ---
 title: d3를 이용한 지리 데이타 시각화
 categories:
-  - null
+  - front-end
+  - d3
 tags:
   - null
 date: 2019-08-28 13:35:48

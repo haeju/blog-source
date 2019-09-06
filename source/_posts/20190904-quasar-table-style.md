@@ -1,8 +1,8 @@
 ---
 title: q-table에서 특정 행에 스타일 적용하기
 categories:
-  - Web
-  - Vue.js
+  - front-end
+  - vue.js
   - quasar
 tags:
   - quasar

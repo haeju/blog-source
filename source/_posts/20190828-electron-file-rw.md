@@ -1,8 +1,8 @@
 ---
 title: Electron에서의 파일처리
 categories:
-  - Web
-  - Electron
+  - front-end
+  - electron
 tags:
   - Electron
   - fileRead
