@@ -105,3 +105,7 @@ thumbnail:
           background-color: red;            
         }
     ```
+  
+  
+  - 예제 화면 
+    {% asset_img hexoblog1.png 예제 화면 %}
