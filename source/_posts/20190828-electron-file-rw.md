@@ -1,8 +1,8 @@
 ---
 title: Electron에서의 파일처리
 categories:
-  - front-end
-  - electron
+  - Projects
+  - Seed
 tags:
   - Electron
   - fileRead

@@ -2,7 +2,7 @@
 title: d3 간단 소개
 date: 2019-08-23 20:17:29
 categories:
-  - Web
+  - front-end
   - d3
 tags:
   - d3

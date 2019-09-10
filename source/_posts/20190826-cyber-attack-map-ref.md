@@ -1,7 +1,8 @@
 ---
 title: 국가별 정보시각화 레펀러스 사이트
 categories:
-  - null
+  - Projects
+  - Seed
 tags:
   - cyberAttack
   - 정보시각화
