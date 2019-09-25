@@ -28,7 +28,6 @@ thumbnail:
 
 ### 맵 스타일
   - fill color 지정
-
 ## Related Posts
   - {% post_link cyber-attack-map-ref %}
   - {% post_link d3-geo-info-visualize %}   
