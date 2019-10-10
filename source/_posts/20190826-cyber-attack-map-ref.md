@@ -62,5 +62,9 @@ thumbnail:
 - 로우 데이터는 300개 이상의 ISP 고객과 130Tbps의 전세계 트래픽을 기반
 - http://www.digitalattackmap.com/
 
+## 7. 세계 은행 현황
+{% asset_img 'worldbankGlobal.png' 세계 은행 현황 %}
+- http://d3.artzub.com/wbca/
+
 Related Posts
 ---
